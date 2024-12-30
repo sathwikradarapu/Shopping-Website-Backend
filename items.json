@@ -1,0 +1,606 @@
+{
+  "items": [
+    [
+      {
+        "id": "009",
+        "image": "images/men1.jpg",
+        "company": "Levi's",
+        "item_name": "Men Slim Fit Denim Jeans",
+        "original_price": 3499,
+        "current_price": 2799,
+        "discount_percentage": 20,
+        "return_period": 15,
+        "delivery_date": "05 Jan 2024",
+        "rating": {
+          "stars": 4.5,
+          "count": 1200
+        }
+      },
+      {
+        "id": "010",
+        "image": "images/men2",
+        "company": "Puma",
+        "item_name": "Men's Active Sports Shoes",
+        "original_price": 4999,
+        "current_price": 2999,
+        "discount_percentage": 40,
+        "return_period": 15,
+        "delivery_date": "04 Jan 2024",
+        "rating": {
+          "stars": 4.6,
+          "count": 850
+        }
+      },
+      {
+        "id": "011",
+        "image": "images/men3.jpg",
+        "company": "Roadster",
+        "item_name": "Men Printed Cotton T-shirt",
+        "original_price": 999,
+        "current_price": 449,
+        "discount_percentage": 55,
+        "return_period": 14,
+        "delivery_date": "06 Jan 2024",
+        "rating": {
+          "stars": 4.4,
+          "count": 2500
+        }
+      },
+      {
+        "id": "012",
+        "image": "images/men4.jpg",
+        "company": "Adidas",
+        "item_name": "Men's Regular Fit Track Pants",
+        "original_price": 2799,
+        "current_price": 1999,
+        "discount_percentage": 28,
+        "return_period": 10,
+        "delivery_date": "05 Jan 2024",
+        "rating": {
+          "stars": 4.7,
+          "count": 670
+        }
+      },
+      {
+        "id": "013",
+        "image": "images/men5.png",
+        "company": "Nike",
+        "item_name": "Men's Flyknit Sneakers",
+        "original_price": 7995,
+        "current_price": 6795,
+        "discount_percentage": 15,
+        "return_period": 20,
+        "delivery_date": "07 Jan 2024",
+        "rating": {
+          "stars": 4.8,
+          "count": 450
+        }
+      },
+      {
+        "id": "014",
+        "image": "images/men6",
+        "company": "Van Heusen",
+        "item_name": "Men Slim Fit Formal Shirt",
+        "original_price": 1999,
+        "current_price": 1399,
+        "discount_percentage": 30,
+        "return_period": 15,
+        "delivery_date": "06 Jan 2024",
+        "rating": {
+          "stars": 4.3,
+          "count": 1150
+        }
+      },
+      {
+        "id": "015",
+        "image": "images/men7.webp",
+        "company": "Jack & Jones",
+        "item_name": "Men Casual Blazer",
+        "original_price": 3999,
+        "current_price": 3199,
+        "discount_percentage": 20,
+        "return_period": 18,
+        "delivery_date": "07 Jan 2024",
+        "rating": {
+          "stars": 4.1,
+          "count": 290
+        }
+      },
+      {
+        "id": "016",
+        "image": "images/men8.jpg",
+        "company": "HRX by Hrithik Roshan",
+        "item_name": "Men Compression Fit Sports Tights",
+        "original_price": 2499,
+        "current_price": 1499,
+        "discount_percentage": 40,
+        "return_period": 10,
+        "delivery_date": "04 Jan 2024",
+        "rating": {
+          "stars": 4.5,
+          "count": 700
+        }
+      },
+      {
+        "id": "017",
+        "image": "images/women1.jpg",
+        "company": "Zara",
+        "item_name": "Women's Floral Printed Maxi Dress",
+        "original_price": 2499,
+        "current_price": 1499,
+        "discount_percentage": 40,
+        "return_period": 30,
+        "delivery_date": "12 Jan 2024",
+        "rating": {
+          "stars": 4.3,
+          "count": 220
+        }
+      },
+      {
+        "id": "018",
+        "image": "images/women2.jpg",
+        "company": "Forever 21",
+        "item_name": "Women's Ribbed Bodycon Dress",
+        "original_price": 1899,
+        "current_price": 1139,
+        "discount_percentage": 40,
+        "return_period": 30,
+        "delivery_date": "12 Jan 2024",
+        "rating": {
+          "stars": 4.5,
+          "count": 500
+        }
+      },
+      {
+        "id": "019",
+        "image": "images/women3.jpg",
+        "company": "H&M",
+        "item_name": "Women's High Waist Skinny Jeans",
+        "original_price": 2999,
+        "current_price": 1999,
+        "discount_percentage": 33,
+        "return_period": 15,
+        "delivery_date": "14 Jan 2024",
+        "rating": {
+          "stars": 4.7,
+          "count": 700
+        }
+      },
+      {
+        "id": "020",
+        "image": "images/women4.webp",
+        "company": "Vero Moda",
+        "item_name": "Women's Solid Casual Shirt",
+        "original_price": 1299,
+        "current_price": 799,
+        "discount_percentage": 38,
+        "return_period": 15,
+        "delivery_date": "13 Jan 2024",
+        "rating": {
+          "stars": 4.0,
+          "count": 300
+        }
+      },
+      {
+        "id": "021",
+        "image": "images/women5.jpg",
+        "company": "W for Women",
+        "item_name": "Women's Straight Kurta",
+        "original_price": 1499,
+        "current_price": 899,
+        "discount_percentage": 40,
+        "return_period": 30,
+        "delivery_date": "14 Jan 2024",
+        "rating": {
+          "stars": 4.4,
+          "count": 800
+        }
+      },
+      {
+        "id": "022",
+        "image": "images/women6.webp",
+        "company": "Biba",
+        "item_name": "Women's Printed Palazzo",
+        "original_price": 999,
+        "current_price": 599,
+        "discount_percentage": 40,
+        "return_period": 15,
+        "delivery_date": "12 Jan 2024",
+        "rating": {
+          "stars": 4.6,
+          "count": 400
+        }
+      },
+      {
+        "id": "023",
+        "image": "images/women7.avif",
+        "company": "Fabindia",
+        "item_name": "Women's Ethnic Wear Dupatta",
+        "original_price": 799,
+        "current_price": 479,
+        "discount_percentage": 40,
+        "return_period": 30,
+        "delivery_date": "13 Jan 2024",
+        "rating": {
+          "stars": 4.3,
+          "count": 250
+        }
+      },
+      {
+        "id": "024",
+        "image": "images/women8.jpg",
+        "company": "Puma",
+        "item_name": "Women's Training Jacket",
+        "original_price": 3499,
+        "current_price": 2099,
+        "discount_percentage": 40,
+        "return_period": 30,
+        "delivery_date": "14 Jan 2024",
+        "rating": {
+          "stars": 4.8,
+          "count": 1200
+        }
+      },
+      {
+        "id": "025",
+        "image": "images/kid1.png",
+        "company": "Nike",
+        "item_name": "Kids Running Shoes",
+        "original_price": 2999,
+        "current_price": 1999,
+        "discount_percentage": 33,
+        "return_period": 14,
+        "delivery_date": "15 Jan 2024",
+        "rating": {
+          "stars": 4.5,
+          "count": 250
+        }
+      },
+      {
+        "id": "026",
+        "image": "images/kid2.jpg",
+        "company": "Adidas",
+        "item_name": "Baby Boys Hoodie",
+        "original_price": 1999,
+        "current_price": 999,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "18 Jan 2024",
+        "rating": {
+          "stars": 4.7,
+          "count": 1200
+        }
+      },
+      {
+        "id": "027",
+        "image": "images/kid3.webp",
+        "company": "Puma",
+        "item_name": "Kids Sports T-shirt",
+        "original_price": 999,
+        "current_price": 499,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "20 Jan 2024",
+        "rating": {
+          "stars": 4.3,
+          "count": 900
+        }
+      },
+      {
+        "id": "028",
+        "image": "images/kid4.jpg",
+        "company": "Levi's",
+        "item_name": "Girls Denim Jacket",
+        "original_price": 2499,
+        "current_price": 1499,
+        "discount_percentage": 40,
+        "return_period": 14,
+        "delivery_date": "22 Jan 2024",
+        "rating": {
+          "stars": 4.6,
+          "count": 500
+        }
+      },
+      {
+        "id": "029",
+        "image": "images/kid5.jpg",
+        "company": "Disney",
+        "item_name": "Frozen Backpack",
+        "original_price": 799,
+        "current_price": 499,
+        "discount_percentage": 38,
+        "return_period": 14,
+        "delivery_date": "24 Jan 2024",
+        "rating": {
+          "stars": 4.8,
+          "count": 1800
+        }
+      },
+      {
+        "id": "030",
+        "image": "images/kid6.jpg",
+        "company": "Fisher-Price",
+        "item_name": "Baby Playset",
+        "original_price": 4999,
+        "current_price": 3999,
+        "discount_percentage": 20,
+        "return_period": 14,
+        "delivery_date": "26 Jan 2024",
+        "rating": {
+          "stars": 4.9,
+          "count": 1000
+        }
+      },
+      {
+        "id": "031",
+        "image": "images/kid7.jpg",
+        "company": "Barbie",
+        "item_name": "Barbie Doll Set",
+        "original_price": 1499,
+        "current_price": 999,
+        "discount_percentage": 33,
+        "return_period": 14,
+        "delivery_date": "28 Jan 2024",
+        "rating": {
+          "stars": 4.7,
+          "count": 700
+        }
+      },
+      {
+        "id": "032",
+        "image": "images/kid8.jpg",
+        "company": "H&M",
+        "item_name": "Kids Casual Shoes",
+        "original_price": 1299,
+        "current_price": 799,
+        "discount_percentage": 38,
+        "return_period": 14,
+        "delivery_date": "30 Jan 2024",
+        "rating": {
+          "stars": 4.4,
+          "count": 1200
+        }
+      },
+      {
+        "id": "033",
+        "image": "images/living1.avif",
+        "company": "Ikea",
+        "item_name": "Sofa Set 3 Seater",
+        "original_price": 29999,
+        "current_price": 24999,
+        "discount_percentage": 16,
+        "return_period": 30,
+        "delivery_date": "15 Nov 2023",
+        "rating": {
+          "stars": 4.5,
+          "count": 1200
+        }
+      },
+      {
+        "id": "034",
+        "image": "images/living2.jpg",
+        "company": "Home Centre",
+        "item_name": "Wooden Coffee Table",
+        "original_price": 7999,
+        "current_price": 6499,
+        "discount_percentage": 19,
+        "return_period": 30,
+        "delivery_date": "18 Nov 2023",
+        "rating": {
+          "stars": 4.3,
+          "count": 500
+        }
+      },
+      {
+        "id": "035",
+        "image": "images/living3.jpg",
+        "company": "Cushion Co.",
+        "item_name": "Memory Foam Mattress",
+        "original_price": 19999,
+        "current_price": 14999,
+        "discount_percentage": 25,
+        "return_period": 30,
+        "delivery_date": "20 Nov 2023",
+        "rating": {
+          "stars": 4.7,
+          "count": 800
+        }
+      },
+      {
+        "id": "036",
+        "image": "images/living4.jpg",
+        "company": "Pepperfry",
+        "item_name": "Queen Size Bed",
+        "original_price": 15999,
+        "current_price": 13999,
+        "discount_percentage": 13,
+        "return_period": 30,
+        "delivery_date": "25 Nov 2023",
+        "rating": {
+          "stars": 4.6,
+          "count": 600
+        }
+      },
+      {
+        "id": "037",
+        "image": "images/living5.webp",
+        "company": "HomeTown",
+        "item_name": "6-Piece Dinner Set",
+        "original_price": 3499,
+        "current_price": 2799,
+        "discount_percentage": 20,
+        "return_period": 30,
+        "delivery_date": "30 Nov 2023",
+        "rating": {
+          "stars": 4.2,
+          "count": 1100
+        }
+      },
+      {
+        "id": "038",
+        "image": "images/living6.jpg",
+        "company": "Croma",
+        "item_name": "Air Purifier",
+        "original_price": 15999,
+        "current_price": 12999,
+        "discount_percentage": 19,
+        "return_period": 30,
+        "delivery_date": "5 Dec 2023",
+        "rating": {
+          "stars": 4.8,
+          "count": 900
+        }
+      },
+      {
+        "id": "039",
+        "image": "images/living7.webp",
+        "company": "Godrej",
+        "item_name": "Refrigerator 340L",
+        "original_price": 32990,
+        "current_price": 28990,
+        "discount_percentage": 12,
+        "return_period": 30,
+        "delivery_date": "8 Dec 2023",
+        "rating": {
+          "stars": 4.4,
+          "count": 650
+        }
+      },
+      {
+        "id": "040",
+        "image": "images/living8.jpg",
+        "company": "Urban Ladder",
+        "item_name": "Wooden Bookshelf",
+        "original_price": 5999,
+        "current_price": 4999,
+        "discount_percentage": 17,
+        "return_period": 30,
+        "delivery_date": "10 Dec 2023",
+        "rating": {
+          "stars": 4.3,
+          "count": 400
+        }
+      },
+      {
+        "id": "041",
+        "image": "images/beauty1.jpg",
+        "company": "L'Oreal",
+        "item_name": "Revitalift Brightening Serum",
+        "original_price": 1599,
+        "current_price": 1199,
+        "discount_percentage": 25,
+        "return_period": 14,
+        "delivery_date": "15 Jan 2024",
+        "rating": {
+          "stars": 4.5,
+          "count": 210
+        }
+      },
+      {
+        "id": "042",
+        "image": "images/beauty2.jpg",
+        "company": "Maybelline",
+        "item_name": "Fit Me Foundation",
+        "original_price": 799,
+        "current_price": 599,
+        "discount_percentage": 25,
+        "return_period": 14,
+        "delivery_date": "12 Jan 2024",
+        "rating": {
+          "stars": 4.7,
+          "count": 1500
+        }
+      },
+      {
+        "id": "043",
+        "image": "images/beauty3.jpg",
+        "company": "Nivea",
+        "item_name": "Soft Light Moisturizing Cream",
+        "original_price": 299,
+        "current_price": 199,
+        "discount_percentage": 33,
+        "return_period": 14,
+        "delivery_date": "16 Jan 2024",
+        "rating": {
+          "stars": 4.6,
+          "count": 4500
+        }
+      },
+      {
+        "id": "044",
+        "image": "images/beauty4.jpg",
+        "company": "Lakmé",
+        "item_name": "Enrich Lip Crayon",
+        "original_price": 499,
+        "current_price": 399,
+        "discount_percentage": 20,
+        "return_period": 14,
+        "delivery_date": "18 Jan 2024",
+        "rating": {
+          "stars": 4.3,
+          "count": 2200
+        }
+      },
+      {
+        "id": "045",
+        "image": "images/beauty5.jpg",
+        "company": "Himalaya",
+        "item_name": "Herbal Anti-Dandruff Shampoo",
+        "original_price": 199,
+        "current_price": 149,
+        "discount_percentage": 25,
+        "return_period": 14,
+        "delivery_date": "10 Jan 2024",
+        "rating": {
+          "stars": 4.4,
+          "count": 3200
+        }
+      },
+      {
+        "id": "046",
+        "image": "images/beauty6.webp",
+        "company": "Biotique",
+        "item_name": "Bio Cucumber Pore Tightening Toner",
+        "original_price": 279,
+        "current_price": 223,
+        "discount_percentage": 20,
+        "return_period": 14,
+        "delivery_date": "14 Jan 2024",
+        "rating": {
+          "stars": 4.5,
+          "count": 1500
+        }
+      },
+      {
+        "id": "047",
+        "image": "images/beauty7.avif",
+        "company": "The Body Shop",
+        "item_name": "Tea Tree Skin Clearing Face Wash",
+        "original_price": 649,
+        "current_price": 499,
+        "discount_percentage": 23,
+        "return_period": 14,
+        "delivery_date": "11 Jan 2024",
+        "rating": {
+          "stars": 4.6,
+          "count": 2900
+        }
+      },
+      {
+        "id": "048",
+        "image": "images/beauty8.jpg",
+        "company": "Olay",
+        "item_name": "Total Effects 7-in-1 Anti-Aging Cream",
+        "original_price": 899,
+        "current_price": 679,
+        "discount_percentage": 25,
+        "return_period": 14,
+        "delivery_date": "17 Jan 2024",
+        "rating": {
+          "stars": 4.7,
+          "count": 1800
+        }
+      }
+    ]
+  ]
+}
